@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\sofia\Desktop\4º\TDS\eclipse-workspace-TDS\.metadata\.plugins\org.eclipse.jdt.core
+539714136.index
+3098782522.index
+2615823846.index
+1831455391.index
+3592291633.index
+3938039414.index
+3037150740.index
